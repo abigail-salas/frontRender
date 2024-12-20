@@ -1,4 +1,4 @@
-const API_URL = "http://localhost:3000/viajes";
+const API_URL = "https://backrender-2g40.onrender.com/viajes";
 
 // Obtener todos los viajes
 export const getTrips = async () => {
